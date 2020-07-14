@@ -1,14 +1,3 @@
 username : admin
 password : 92668782
 
-14/07/20 11:08:07 admin logged into a system
-14/07/20 11:08:07 admin added new course OOP
-14/07/20 11:08:07 admin added  new textbook OOP 
-14/07/20 11:12:48 admin logged into a system
-14/07/20 11:12:48 admin added new course OOP
-14/07/20 11:12:48 admin added  new textbook OOP 
-14/07/20 11:12:48 admin added new course Database
-14/07/20 11:12:48 admin added  new textbook SQL  
-14/07/20 11:17:12 admin logged into a system
-14/07/20 11:17:12 admin added new course Diff Equations
-14/07/20 11:17:12 admin added  new textbook Diff 
